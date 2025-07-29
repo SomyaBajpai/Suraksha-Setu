@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For queries or suggestions, please reach out to:
-- [Dhhairya](https://github.com/SomyaBajpai)
+- [SomyaBajpai](https://github.com/SomyaBajpai)
 
 ---
 
